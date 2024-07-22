@@ -162,7 +162,7 @@ $_ADMINLANG['global']['collapseAll'] = "すべて折りたたむ";
 $_ADMINLANG['global']['expandAll'] = "すべて展開";
 $_ADMINLANG['global']['showing'] = ":start から :end までを表示しています";
 $_ADMINLANG['global']['hideInactive'] = "非アクティブなクライアントを非表示にする";
-$_ADMINLANG['global']['hiddenRecordsFound'] = ""非アクティブを非表示"フィルターがアクティブになっているため、非表示になっている非アクティブな結果が :numHidden 件あります。表示するには、<a href=\"#\">ここをクリック</a>してください。";
+$_ADMINLANG['global']['hiddenRecordsFound'] = "非アクティブフィルターが有効なため、:numHidden 件の非アクティブな結果が非表示になっています。<a href=\"#\">ここをクリック</a>して表示します。";
 $_ADMINLANG['global']['noClientsExist'] = "クライアントが存在しません";
 $_ADMINLANG['global']['searchTerm'] = "検索用語: :searchTerm";
 $_ADMINLANG['global']['manage'] = "管理";
