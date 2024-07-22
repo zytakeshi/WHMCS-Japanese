@@ -1,13 +1,5 @@
 <?php
-/**
- * Japanese language file
- *
- * @category Language
- * @package  WHMCS
- * @author   Your Name <yourname@example.com>
- * @license  http://www.example.com/license MIT License
- * @link     http://www.example.com
- */
+
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
 $_ADMINLANG['locate'] = "ja_JP";
